@@ -1,2 +1,2 @@
 # Binance-Trading-Bot
-Crypto Trading Bot for Binance Testnet
+Crypto Trading Bot for the Binance Testnet
